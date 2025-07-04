@@ -10,3 +10,5 @@
   * Update selector global
 * 2025-05-07 -- 1.0.8
   * Update version and dependencies in package.json; refine selector in module.js
+* 2025-07-04 -- 1.0.9
+  * Update static -> dynamic selector data 
