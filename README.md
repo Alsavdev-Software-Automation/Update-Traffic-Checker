@@ -12,3 +12,5 @@
   * Update version and dependencies in package.json; refine selector in module.js
 * 2025-07-04 -- 1.0.9
   * Update static -> dynamic selector data 
+* 2025-08-12 -- 1.1.0
+  * Inject Patcher Trunstile manual
