@@ -14,3 +14,5 @@
   * Update static -> dynamic selector data 
 * 2025-08-12 -- 1.1.0
   * Inject Patcher Trunstile manual
+* 2025-11-19 -- 1.1.1
+  * Add top countries to the log table 
