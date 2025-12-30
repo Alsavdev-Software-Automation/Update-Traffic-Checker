@@ -16,3 +16,7 @@
   * Inject Patcher Trunstile manual
 * 2025-11-19 -- 1.1.1
   * Add top countries to the log table 
+* 2025-12-30 -- 1.1.2
+  * Refactor flow, upgrade version to all dep,
+  * New UI ( UI Friendly, Modern )
+  * Update System v2
