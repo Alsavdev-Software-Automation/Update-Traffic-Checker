@@ -20,3 +20,5 @@
   * Refactor flow, upgrade version to all dep,
   * New UI ( UI Friendly, Modern )
   * Update System v2
+* 2026-01-06 -- 1.1.3
+  * Fix some bugs and unused 
