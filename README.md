@@ -22,3 +22,5 @@
   * Update System v2
 * 2026-01-06 -- 1.1.3
   * Fix some bugs and unused 
+* 2026-04-15 -- 1.1.4
+  * New Feature on UI (search, bulk delete, trim duplicate)
