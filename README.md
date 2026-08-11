@@ -24,3 +24,5 @@
   * Fix some bugs and unused 
 * 2026-04-15 -- 1.1.4
   * New Feature on UI (search, bulk delete, trim duplicate)
+* 2026-08-11 -- 1.1.5
+  * Fix selection btn submit
